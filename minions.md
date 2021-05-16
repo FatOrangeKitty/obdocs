@@ -766,7 +766,7 @@ To spend your honour points, you can `+BA buy` the items in the table below, `+B
 | High gamble | 500 |
 
 ## Zalcano
-Are you ready to take on the demon underneath Prifddinas? Defeating Zalcano gives plenty of loot, with many gems, ores and bars to be stacked up. Zalcano has a requirement of 70 mining and smithing. There are several boosts for Zalcano, with a small boost for extra mining and smithing levels, up to 4.95% with both 99 mining and smithing. Minion learning provides a maximum 16.67% boost as well as a -10% penalty for not having graceful equipped in the skilling gear setup. Zalcano also uses food, however, only a small amount in comparison to other activities. 
+Are you ready to take on the demon underneath Prifddinas? Defeating Zalcano gives plenty of loot, with many gems, ores and bars to be stacked up. The stats required to kill Zalcano are 70 mining, smithing, fishing, cooking, construction, herblore, hunter, farming, agility, and woodcutting. There are several boosts for Zalcano, with a small boost for extra mining and smithing levels, up to 4.95% with both 99 mining and smithing. Minion learning provides a maximum 16.67% boost as well as a -10% penalty for not having graceful equipped in the skilling gear setup. Zalcano also uses food, however, only a small amount in comparison to other activities.
 
 Zalcano can be started by using the `+zalcano` command. 
 
